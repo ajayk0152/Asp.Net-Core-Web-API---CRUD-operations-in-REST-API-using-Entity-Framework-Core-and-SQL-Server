@@ -1,0 +1,6 @@
+@CrudOperations.NetCore_HostAddress = http://localhost:5139
+
+GET {{CrudOperations.NetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
